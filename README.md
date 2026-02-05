@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+💫
 Working at Sensade as a software developer
 
 
