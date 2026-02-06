@@ -2,7 +2,7 @@
 
 
 
-<img width="179" height="55" alt="rsz_sensade-logo-lille-med-baggrund" src="https://github.com/user-attachments/assets/109ced0a-05ee-40f5-8987-549071d3449b" />
+<img width="120" height="35" alt="rsz_sensade-logo-lille-med-baggrund" src="https://github.com/user-attachments/assets/109ced0a-05ee-40f5-8987-549071d3449b" />
 
 Working at Sensade as a software developer
 
