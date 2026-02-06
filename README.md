@@ -1,8 +1,9 @@
-## Hello there <img width="32" height="32" alt="rsz_bluelightsaber" src="https://github.com/user-attachments/assets/760b9ef0-188a-4b8f-bdc1-a9594af6822a" />
+## Hello there <img width="28" height="28" alt="rsz_bluelightsaber" src="https://github.com/user-attachments/assets/760b9ef0-188a-4b8f-bdc1-a9594af6822a" />
 
 
 
-💫
+<img width="179" height="55" alt="rsz_sensade-logo-lille-med-baggrund" src="https://github.com/user-attachments/assets/109ced0a-05ee-40f5-8987-549071d3449b" />
+
 Working at Sensade as a software developer
 
 
