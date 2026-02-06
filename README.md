@@ -1,4 +1,5 @@
-## Hello there 👋
+## Hello there 👋<img width="128" height="127" alt="bluelightsaber" src="https://github.com/user-attachments/assets/7e3a523c-f7c8-4ed9-9926-b8dd1d0fba06" />
+
 
 💫
 Working at Sensade as a software developer
